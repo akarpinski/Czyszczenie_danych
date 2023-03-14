@@ -8,7 +8,7 @@ HR_dirty_data.txt
 ```
 
 ---
-Zebrane dane obejmują:
+#### Zebrane dane obejmują:
 - poziom zadowolenia
 - ostatnią ocenę
 - numer projektu
