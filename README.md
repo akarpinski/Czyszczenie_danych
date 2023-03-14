@@ -28,7 +28,7 @@ HR_dirty_data.txt
 6. Zapisanie oczyszczonych danych.
 
 ```
-Przykładowy plik z danymi do czyszczenia (z internetu):
+Przykładowy plik z danymi po oczyszczeniu:
 
-HR_dirty_data.txt
+HR_cleaned.txt
 ```
