@@ -23,7 +23,7 @@ Zebrane dane obejmują:
 6. Zapisanie oczyszczonych danych.
 
 ```
-Przykładowy plik z danymi do czyszczenia (z internetu):
+#### Przykładowy plik z danymi do czyszczenia (z internetu):
 HR_dirty_data.txt
 Plik z danymi oczyszczonymi
 HR_dirty_data.txt
