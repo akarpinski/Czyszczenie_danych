@@ -3,7 +3,7 @@
 Czyszczenie przykładowego zbioru danych związanego ze sprzedażą.
 
 ---
-Zebrane dane obejmują
+Zebrane dane obejmują:
 - poziom zadowolenia
 - ostatnią ocenę
 - numer projektu
@@ -13,4 +13,3 @@ Zebrane dane obejmują
 - promocje ostatnich 5 lat
 - sprzedaż
 - wynagrodzenie
-
