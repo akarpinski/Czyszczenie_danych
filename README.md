@@ -20,7 +20,7 @@ HR_dirty_data.txt
 - wynagrodzenie
 
 #### Etapy czyszczenia (wybrane)
-1. Wczytanie danych pliku HR_dirty_data.txt
+1. Wczytanie danych z pliku HR_dirty_data.txt
 2. Usuwanie wybranych danych (na stałe lub dla testu)
 3. Sprawdzanie rozkladów zmiennych, wartości odstających
 4. Usuwanie wszystkich białych znaków
