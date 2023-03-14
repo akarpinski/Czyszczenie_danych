@@ -1,0 +1,1 @@
+# Czyszczenie_danych
