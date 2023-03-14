@@ -1,6 +1,11 @@
 ### Czyszczenie danych
 
 Czyszczenie przykładowego zbioru danych związanego ze sprzedażą.
+```
+Przykładowy plik z danymi do czyszczenia (z internetu):
+
+HR_dirty_data.txt
+```
 
 ---
 Zebrane dane obejmują:
@@ -23,8 +28,7 @@ Zebrane dane obejmują:
 6. Zapisanie oczyszczonych danych.
 
 ```
-#### Przykładowy plik z danymi do czyszczenia (z internetu):
-HR_dirty_data.txt
-Plik z danymi oczyszczonymi
+Przykładowy plik z danymi do czyszczenia (z internetu):
+
 HR_dirty_data.txt
 ```
