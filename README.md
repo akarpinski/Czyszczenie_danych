@@ -1,6 +1,6 @@
 ### Czyszczenie danych
 
-Czyszczenie przykładowego zbioru danych związanego ze sprzedażą.
+Czyszczenie przykładowego zbioru danych związanego ze sprzedażą w firmie.
 ```
 Przykładowy plik z danymi do czyszczenia (z internetu):
 
